@@ -114,22 +114,6 @@ body {
   background-image: url("img/icon-css.svg");
 }
 
-.skill-jscript {
-  background-image: url("img/icon-javascript.svg");
-}
-
-.skill-tscript {
-  background-image: url("img/icons8-typescript.svg");
-}
-
-.skill-sql {
-  background-image: url("img/icons8-mysql-24.png");
-}
-
-.skill-git {
-  background-image: url("img/icons8-git.svg");
-}
-
 .level {
   margin: 4px 0 16px;
   padding: 0;
